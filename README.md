@@ -130,4 +130,3 @@ This approach:
 - Distributed systems practitioners
 - Kafka-based architectures
 - Engineers designing for correctness, not demos
-
